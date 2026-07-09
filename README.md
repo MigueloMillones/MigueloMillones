@@ -7,53 +7,6 @@ Full Stack Developer from Colombia 🇨🇴
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Python+%7C+Flask;Building+Modern+Web+Applications;Learning+Cloud+%26+Software+Architecture;Always+Learning+Something+New" />
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:tu-correo@ejemplo.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://coolfixhi.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-4F8CC9?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-</p>
-
----
-
-## 🙋‍♂️ About Me
-
-| |
-|---|
-| 💻 &nbsp;I am mainly a **Full Stack Developer**, with a focus on Frontend <br> 🎓 &nbsp;Computer Engineering student at Politécnico Colombiano Jaime Isaza Cadavid <br> 🌎 &nbsp;Based in Urabá, Antioquia, Colombia <br> 💼 &nbsp;Freelance web developer — landing pages & sites for local businesses <br> 🐍 &nbsp;Developing REST APIs with Python & Flask <br> ☁️ &nbsp;Currently learning AWS, Docker and Software Architecture <br> 🚀 &nbsp;Always improving through real-world client projects |
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏭 Coolfix
-Sitio web en producción para una empresa de servicios industriales, construido con React + Tailwind CSS.
-
-**Stack:** React · Tailwind CSS · JavaScript
-
-🔗 [coolfixhi.com](https://coolfixhi.com)
-
-</td>
-<td width="50%">
-
-### 💼 Freelance Landing Pages
-Landing pages profesionales a medida para negocios locales (firmas contables, despachos legales, etc.), enfocadas en diseño limpio y conversión.
-
-**Stack:** HTML5 · CSS3 · JavaScript
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🖥️ Tech Stack
@@ -121,31 +74,9 @@ Landing pages profesionales a medida para negocios locales (firmas contables, de
 
 ---
 
-# 📊 GitHub Stats
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MigueloMillones&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigueloMillones&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=MigueloMillones&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MigueloMillones&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Activity Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MigueloMillones&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
