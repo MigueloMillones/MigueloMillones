@@ -74,12 +74,6 @@ Full Stack Developer from Colombia 🇨🇴
 
 ---
 
-# 🔥 GitHub Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=MigueloMillones&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 💭 Favorite Quote
 > *"The best way to predict the future is to build it."*
