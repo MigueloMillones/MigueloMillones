@@ -1,11 +1,23 @@
 <h1 align="center">Hi 👋, I'm Miguel Ángel</h1>
 <h3 align="center">
-Full Stack Developer from Colombia 🇨🇴
+Desarrollador de Colombia 🇨🇴
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Python+%7C+Flask;Building+Modern+Web+Applications;Learning+Cloud+%26+Software+Architecture;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Desarrollador;React+%7C+Python+%7C+Flask;Building+Modern+Web+Applications;Learning+Cloud+%26+Software+Architecture;Always+Learning+Something+New" />
 </p>
+
+<p align="center">
+📍 Antioquia, Colombia
+</p>
+
+---
+
+## 🙋‍♂️ Acerca de mí
+
+| |
+|---|
+| 💻 &nbsp;Soy desarrollador, con nivel más allá de lo básico pero aún en crecimiento <br> 🎓 &nbsp;Estudiante de Ingeniería en Sistemas <br> 📊 &nbsp;Tengo un gran interés en el análisis de datos y el desarrollo web <br> 🚀 &nbsp;Aprendiendo sobre la gestión de backend |
 
 ---
 
@@ -28,17 +40,24 @@ Full Stack Developer from Colombia 🇨🇴
 </p>
 
 <p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
 </p>
 
 <p>
@@ -46,6 +65,8 @@ Full Stack Developer from Colombia 🇨🇴
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
 </p>
 
 **Otras herramientas:** DBeaver • MongoDB Compass • XAMPP
@@ -73,7 +94,6 @@ Full Stack Developer from Colombia 🇨🇴
 - Artificial Intelligence
 
 ---
-
 
 # 💭 Favorite Quote
 > *"The best way to predict the future is to build it."*
